@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-size: 45px;
+}
+
+h1 {
+    border: 5px black solid;
+}
+
+div {
+    border: 5px black solid;
+}
+
+img {
+    height: 300px;
+    width: 33%;
+    justify-content: center;
+}
+
+input {
+    font-size: 45px;
+}
+
+button {
+    font-size: 45px;    
+}
+
+#container {
+    display: none;
+}
+
+#images {
+    display: none;
+    border: none;
+}
+
+#tryAgain {
+    display: none;
+}
