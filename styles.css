@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-size: 45px;
+    font-size: 25px;
 }
 
 h1 {
@@ -18,11 +18,11 @@ img {
 }
 
 input {
-    font-size: 45px;
+    font-size: 25px;
 }
 
 button {
-    font-size: 45px;    
+    font-size: 25px;    
 }
 
 #container {
