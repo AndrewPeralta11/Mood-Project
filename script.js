@@ -1,6 +1,6 @@
 var tiredImages = ["http://brainchase.com/public/uploads/rosetta-stone-logo.jpg", "https://ui-ex.com/images/transparent-emoji-tired-2.png", "https://www.besthealthmag.ca/wp-content/uploads/sites/16/2015/09/Natural-Remedies-for-Fatigue.gif"];
 
-var happyImages = ["http://www.chapterscapistrano.com/wp-content/uploads/2014/08/happy_2.jpg", "http://onehealthyhamptons.com/wp-content/uploads/2013/08/normal_happy_teaser_ad_copy.jpg", "https://pbs.twimg.com/profile_images/875607716403609603/tS3Ye6Zo.jpg"];
+var happyImages = ["http://www.chapterscapistrano.com/wp-content/uploads/2014/08/happy_2.jpg", "http://onehealthyhamptons.com/wp-content/uploads/2013/08/normal_happy_teaser_ad_copy.jpg", "https://images.pexels.com/photos/1282169/pexels-photo-1282169.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"];
 
 var sadImages = ["https://cdn.shopify.com/s/files/1/1061/1924/products/Unhappy_Face_Emoji_Icon_ios10_large.png?v=1542436007", "https://qotoqot.com/sad-animations/img/400/sitting_alone/sitting_alone.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx6sy9d5lHc5m6BZQhFw3sMtlEKE8sAupq7NWjIauy0aufsN-"];
 
